@@ -9,5 +9,3 @@
 **TheStrongestRiz - Scripter**
 
 **Rhyss Andrei - Tester**
-
-**Krispy Squad - The Best Team**
