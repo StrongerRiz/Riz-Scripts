@@ -1,2 +1,8 @@
 # Riz-Scripts
-This is an Github rep for my scripts n stuffs
+**we asure you the scripts you want, we are the KrispySCripters. We are here to give people advantage of Our Exploits n stuffs**
+
+# Credits
+**Rhyss andrei
+Renivy Yt
+TheStrongestRiz
+Krispy Development**
